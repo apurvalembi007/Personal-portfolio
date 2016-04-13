@@ -1,0 +1,318 @@
+
+
+
+
+.bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+}
+
+.play{
+	
+	color:white;
+	font-size: large;
+	vertical-align: sub;
+}
+
+.name{
+	
+    font-weight: 300;
+	font-size:60px;
+	color: white;
+	
+}
+
+
+.bg-4 {
+      background-color: #15717E;
+      color: #fff;
+	  
+      
+  }
+  
+  .bg-5 {
+      background-color: #15717E;
+      color: #fff;
+	  
+      
+  }
+  
+  
+  
+  .bg-6{
+      background-color: #3F4344;
+      color: #fff;
+	  
+      
+  }
+  .bg-10{
+      background-color: #707577;
+      color: #fff;
+	  
+      
+  }
+  
+  
+  .bg-9{
+     
+      background-color: #BBC0C5;
+	  }
+  
+  .bg-7{
+     
+      background-color: black;
+	  }
+     
+.bg-3{
+	 background-color: #B7B56E;
+}
+.bg-2 {
+      background-color: #f6f6f6;
+  }
+.fluid {
+      padding-top: 70px;
+	  padding-bottom:25px]
+	  font-size: 30px;
+  }
+  
+  
+  .fluid_1 {
+      padding-top: 25px;
+	  padding-bottom:25px]
+	  font-size: 30px;
+  }
+ 
+ .logo {
+    font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+	.navbar {
+    border-radius: initial;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.about{
+
+
+font-size: 20px;
+color : "black";
+}
+
+.n1{
+
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+}
+
+
+.jumbotron {
+      background-color: #f4511e;
+      color: #fff;
+      padding: 100px 25px;
+  }
+  .container-fluid {
+      padding: 60px 50px;
+  }
+  .bg-grey {
+      background-color: #f6f6f6;
+  }
+  .logo-small {
+      color: #f4511e;
+      font-size: 50px;
+  }
+  .logo {
+      color: #f4511e;
+      font-size: 200px;
+  }
+  .thumbnail {
+      padding: 0 0 15px 0;
+      border: none;
+      border-radius: 0;
+  }
+  .thumbnail img {
+      width: 100%;
+      height: 100%;
+      margin-bottom: 10px;
+  }
+  @media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+  }
+  
+ 
+  .s1 {
+    
+    color: white;
+	
+	
+    
+}
+
+
+.desc {
+	
+	padding-right: 160px;
+	padding-left: 20px;
+
+}
+
+.desc p {
+	color: #2f2f2f;
+}
+
+.desc t {
+	color: #34495e;
+	font-weight: 700;
+}
+
+.desc imp {
+	padding: 6px;
+	color: white;
+	background: #34495e;
+}
+
+.desc more {
+	color: #95a5a6;
+}
+
+
+sm {
+	font-size: 12px;
+}
+
+footer {
+   
+    text-align: center;
+}
+
+footer span.copyright {
+    text-transform: uppercase;
+    text-transform: none;
+	color:white;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+}
+
+footer ul.quicklinks {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 40px;
+}
+
+ul.social-buttons {
+    margin-bottom: 20px;
+}
+
+ul.social-buttons li a {
+   
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #222;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+    background-color: #fed136;
+}
+
+.btn:focus,
+.btn:active,
+.btn.active,
+.btn:active:focus {
+    outline: 0;
+}
+
+
+
+
+@media (min-width: 768px)
+.navbar-default .navbar-nav>.active>a {
+    border-radius: 3px;
+}
+.navbar-default .navbar-nav>.active>a {
+    border-radius: 0;
+    color: #fff;
+    background-color: #fed136;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: #e7e7e7;
+}
+.navbar-default .nav li a {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+
+.bg-light-gray {
+    background-color: #f7f7f7;
+}
+@media (min-width: 768px)
+section {
+    padding: 200px,0;
+}
+
+
+
+
+.a1  a {
+
+    color: #34495e;
+    font-weight: 700;
+}
+
+.row1{
+   
+    margin-left: 140px;
+}
+
+.tools {
+    margin-left:25%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
